@@ -1,0 +1,60 @@
+/* Register and Login */
+.register {
+    padding: 60px 0;
+}
+
+.login {
+    padding: 60px 0;
+}
+
+.form {
+    width: 550px;
+    border-radius: 10px;
+    padding: 20px 40px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #192335;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.form input {
+    width: 100%;
+    height: 60px;
+    border: 0;
+    background-color: #F5F5F5;
+    margin-bottom: 30px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    outline: none;
+    font-size: 16px;
+}
+
+.form input[type="checkbox"] {
+    width: auto;
+    height: auto;
+}
+
+.form button {
+    width: 100%;
+    height: 60px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: var(--color-two);
+    border: 0;
+    border-radius: 8px;
+}
+
+.form button:hover {
+    background-color: var(--color-text);
+}
+
+/* End Register and Login */

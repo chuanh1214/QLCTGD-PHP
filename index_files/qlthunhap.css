@@ -1,0 +1,53 @@
+/* BODY */
+.container h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FF5757;
+}
+
+.container button {
+    width: 10%;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #FF5757;
+}
+
+.container table {
+    width: 100%;
+    margin-top: 52px;
+    margin-bottom: 100px;
+}
+
+.container table caption {
+    font-size: 12px;
+    padding: 12px;
+}
+
+.container table tr {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    border: none;
+}
+
+.container table td button {
+    width: 100%;
+    color: #fff;
+}
+
+.container table tr th {
+    background-color: #FF5757;
+    color: #fff;
+}
+
+.container table .SuaXoa a {
+    color: #FF5757;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.container table td .SuaXoa:hover a {
+    text-decoration: underline;
+}
